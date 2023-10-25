@@ -35,49 +35,48 @@ The main features of LPC2148 include the following.
 •	For extra power optimization, there are individual enable or disable of peripheral functions and peripheral CLK scaling.
  
  
-
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
- <img src="https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf08 " height="450" width="450">
+ <img src="![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png" width=450 height=450>
 
  2. click on FILE, click on new stm 32 project 
-<img src="https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3 " height="450" width="450">
-![image](https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png)
-3. select the target to be programmed  as shown below and click on next 
+ <img src="https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png" width=450 height=450>
+<img src="https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png" width=450 height=450>
+ 3. select the target to be programmed  as shown below and click on next 
 
-<img src="https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b " height="450" width="450">
+<img src="https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png" width=450 height=450>
 
-4.select the program name 
-<img src="https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711" height="450" width="450">
-
-
-5. corresponding ioc file will be generated automatically 
-![image](https://user-images.githubusercontent.com/36288975/226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8.png)
-
-6.select the appropriate pins as gipo, in or out, USART or required options and configure 
-![image](https://user-images.githubusercontent.com/36288975/226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1.png)
-![image](https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png)
+ 4.select the program name 
+<img src="https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png" width=450 height=450>
 
 
-7.click on cntrl+S , automaticall C program will be generated 
-![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
-![image](https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png)
-8. edit the program and as per required 
-![image](https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png)
+ 5. corresponding ioc file will be generated automatically 
+<img src="https://user-images.githubusercontent.com/36288975/226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8.png" width=450 height=450>
 
-9. use project and build all 
-![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
-10. once the project is bulild link the hexfile build in stm32cube ide using post processor build 
-![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
-
-11. click on debug option 
-![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
+ 6.select the appropriate pins as gipo, in or out, USART or required options and configure 
+<img src="https://user-images.githubusercontent.com/36288975/226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1.png" width=450 height=450>
+<img src="https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png" width=450 height=450>
 
 
-12. connect the stm nucleo board and click on run 
-![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
+ 7.click on cntrl+S , automaticall C program will be generated 
+<img src="https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png" width=450 height=450>
+<img src="https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png" width=450 height=450>
+
+ 8. edit the program and as per required 
+<img src="https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png" width=450 height=450>
+
+ 9. use project and build all 
+<img src=" https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png" width=450 height=450>
+
+ 10. once the project is bulild link the hexfile build in stm32cube ide using post processor build 
+<img src="https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png" width=450 height=450>
+
+ 11. click on debug option 
+<img src="https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png" width=450 height=450>
 
 
+ 12. connect the stm nucleo board and click on run 
+<img src="https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png" width=450 height=450>
 
 
 
@@ -118,9 +117,9 @@ int main(void)
 
 
 ## Output  :
-![WhatsApp Image 2023-08-16 at 11 45 29 AM](https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/c959605a-d22c-4eac-be52-c90b84dfbc5c)
+<img src="https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/c959605a-d22c-4eac-be52-c90b84dfbc5c " width=450 height=450>
  
-![WhatsApp Image 2023-08-16 at 11 45 43 AM](https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/a6bb6d50-94c0-49b2-a142-f2f718e8462f)
+<img src="https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/a6bb6d50-94c0-49b2-a142-f2f718e8462f" width=450 height=450>
  
  
  
