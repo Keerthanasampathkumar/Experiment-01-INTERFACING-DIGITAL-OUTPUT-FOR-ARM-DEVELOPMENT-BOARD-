@@ -38,17 +38,17 @@ The main features of LPC2148 include the following.
 
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
- <img src="https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf08"height="450" width="450">
+ <img src="https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf08 " height="450" width="450">
 
  2. click on FILE, click on new stm 32 project 
- ![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
+<img src="https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3 " height="450" width="450">
 ![image](https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png)
 3. select the target to be programmed  as shown below and click on next 
 
-![image](https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png)
+<img src="https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b " height="450" width="450">
 
 4.select the program name 
-![image](https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png)
+<img src="https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711" height="450" width="450">
 
 
 5. corresponding ioc file will be generated automatically 
