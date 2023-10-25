@@ -62,7 +62,8 @@ The main features of LPC2148 include the following.
 <img src="https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png" width=450 height=450>
 
 
- 7.click on cntrl+S , automaticall C program will be generated 
+7.click on cntrl+S , automaticall C program will be generated 
+
 <img src="https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png" width=450 height=450>
 <img src="https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png" width=450 height=450>
 
@@ -124,8 +125,7 @@ int main(void)
 
 <img src="https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/c959605a-d22c-4eac-be52-c90b84dfbc5c " width=450 height=450>
  
-
-<img src="https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/a6bb6d50-94c0-49b2-a142-f2f718e8462f" width=450 height=450>
+ <img src="https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/a6bb6d50-94c0-49b2-a142-f2f718e8462f" width=450 height=450>
  
  
  
