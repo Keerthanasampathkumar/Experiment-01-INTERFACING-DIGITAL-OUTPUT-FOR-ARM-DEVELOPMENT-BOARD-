@@ -42,18 +42,22 @@ The main features of LPC2148 include the following.
  2. click on FILE, click on new stm 32 project 
  <img src="https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png" width=450 height=450>
 <img src="https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png" width=450 height=450>
+ 
  3. select the target to be programmed  as shown below and click on next 
 
 <img src="https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png" width=450 height=450>
 
  4.select the program name 
+
 <img src="https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png" width=450 height=450>
 
 
  5. corresponding ioc file will be generated automatically 
+
 <img src="https://user-images.githubusercontent.com/36288975/226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8.png" width=450 height=450>
 
  6.select the appropriate pins as gipo, in or out, USART or required options and configure 
+
 <img src="https://user-images.githubusercontent.com/36288975/226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1.png" width=450 height=450>
 <img src="https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png" width=450 height=450>
 
@@ -117,8 +121,10 @@ int main(void)
 
 
 ## Output  :
+
 <img src="https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/c959605a-d22c-4eac-be52-c90b84dfbc5c " width=450 height=450>
  
+
 <img src="https://github.com/Keerthanasampathkumar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119477890/a6bb6d50-94c0-49b2-a142-f2f718e8462f" width=450 height=450>
  
  
